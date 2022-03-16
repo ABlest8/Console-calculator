@@ -1,0 +1,7 @@
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\bin\Debug\56462_AkifBurak_YILDIRIM.exe.config
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\bin\Debug\56462_AkifBurak_YILDIRIM.exe
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\bin\Debug\56462_AkifBurak_YILDIRIM.pdb
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\obj\Debug\56462_AkifBurak_YILDIRIM.csprojAssemblyReference.cache
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\obj\Debug\56462_AkifBurak_YILDIRIM.csproj.CoreCompileInputs.cache
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\obj\Debug\56462_AkifBurak_YILDIRIM.exe
+C:\Users\48572\source\repos\56462_AkifBurak_YILDIRIM\56462_AkifBurak_YILDIRIM\obj\Debug\56462_AkifBurak_YILDIRIM.pdb
